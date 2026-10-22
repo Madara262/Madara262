@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Sayf%20Eddine&fontSize=42&subText=Programming%20%26%20Multimedia%20Student%20|%20Software%20%26%203D%20Developer&subFontSize=18&animation=fadeIn" width="100%" />
 
-  ### Building
+  ### 
   
   ![Degree](https://img.shields.io/badge/STUDYING-PROGRAMMING_%26_MULTIMEDIA-555555?style=for-the-badge&labelColor=333333&color=7B1FA2)
 
