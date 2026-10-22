@@ -5,8 +5,8 @@
   
   ![Degree](https://img.shields.io/badge/STUDYING-PROGRAMMING_%26_MULTIMEDIA-555555?style=for-the-badge&labelColor=333333&color=7B1FA2)
 
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-555555?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=333333&color=7B1FA2)](https://linkedin.com)
-  [![Email](https://img.shields.io/badge/EMAIL-CONTACT-555555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333&color=6A1B9A)](mailto:your.email@example.com)
+ 
+  [![Email](https://img.shields.io/badge/EMAIL-CONTACT-555555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333&color=6A1B9A)](mailto:sayfeddine266@gmail.com)
   [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-555555?style=for-the-badge&logo=github&logoColor=white&labelColor=333333&color=4A148C)](https://github.com/Madara262)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=Madara262&style=flat-square&color=purple)
