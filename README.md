@@ -31,3 +31,27 @@ I am a Programming and Multimedia student bridging the gap between low-level sof
 ---
 
 ### Tech Stack
+
+<div align="center">
+
+  #### Languages
+  <p>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css" />
+  </p>
+
+  #### Frontend & Web
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+  </p>
+
+  #### Backend & Databases
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,py,postgres,mysql" />
+  </p>
+
+  #### Multimedia, OS & Security Tools
+  <p>
+    <img src="https://skillicons.dev/icons?i=blender,linux,kali,bash,powershell,git,vscode" />
+  </p>
+
+</div>
