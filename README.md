@@ -9,8 +9,7 @@
   [![Email](https://img.shields.io/badge/EMAIL-CONTACT-555555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333&color=6A1B9A)](mailto:sayfeddine266@gmail.com)
   [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-555555?style=for-the-badge&logo=github&logoColor=white&labelColor=333333&color=4A148C)](https://github.com/Madara262)
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Madara262&style=flat-square&color=purple)
-</div>
+ 
 
 ---
 
